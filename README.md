@@ -1,6 +1,9 @@
 ### Seongjin Yoo - Oliver
-👋 Hi there. Welcome to my Github place. I am currently trying to get a job as a back-end.
+👋 Hi there I'm Oliver Yoo keeping calm and make all of things I planned, and never giving up things I am working. Welcome to my Github place. 
+I am currently trying to get a job as a back-end.
+I will re-announce when and what kind of my respository will be updated! 🦖
 
+If you have any questions, feel free to contact me ! Thank you
 ### 🌱Languages
 - Java (Intermediate)
 - C# (Intermediate)
