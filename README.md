@@ -1,4 +1,12 @@
 ### Hi there 👋
+Welcome to my Github place. 
+I am currently trying to get a job as a back-end.
+
+🌱Languages
+- Java(Intermediate)
+- C#(Intermediate)
+- Python(Beginner)
+- C/C++(Beginner)
 
 <!--
 **SeongjinOliver/SeongjinOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
