@@ -1,4 +1,4 @@
-### Seongjin Yoo
+### Seongjin Yoo - Oliver
 👋 Hi there. Welcome to my Github place. I am currently trying to get a job as a back-end.
 
 ### 🌱Languages
