@@ -1,8 +1,7 @@
-### Hi there 👋
-Welcome to my Github place. 
-I am currently trying to get a job as a back-end.
+### Seongjin Yoo
+👋 Hi there. Welcome to my Github place. I am currently trying to get a job as a back-end.
 
-🌱Languages
+### 🌱Languages
 - Java (Intermediate)
 - C# (Intermediate)
 - C/C++ (Beginner)
