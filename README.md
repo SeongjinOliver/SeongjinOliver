@@ -11,6 +11,7 @@ If you have any questions, feel free to contact me ! Thank you
 - Python (Beginner)
 - JavaScript (Beginner)
 - R (Beginner)
+- React (Beginner)
 
 <!--
 **SeongjinOliver/SeongjinOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
